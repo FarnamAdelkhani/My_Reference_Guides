@@ -3,4 +3,7 @@
 	url = https://github.com/FarnamAdelkhani/Python_Reference_Guide.git
 [submodule "OpenGL_reference_guide"]
 	path = OpenGL_reference_guide
-	url = https://github.com/FarnamAdelkhani/OpenGL_reference_guide.git
+url=https://github.com/FarnamAdelkhani/OpenGL_Reference_Guide.git
+[submodule "Cpp_Reference_Guide"]
+	path = Cpp_Reference_Guide
+	url = https://github.com/FarnamAdelkhani/Cpp_Reference_Guide.git
